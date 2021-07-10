@@ -1,0 +1,45 @@
+body {
+    height: 100%;
+    width: 100%;
+    background: url("../img/back.PNG") no-repeat 0px 0px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    font-size:  16px;
+}
+label{
+    display:inline-block;
+    width:100px;
+    vertical-align:middle;
+    margin: 10px auto;
+}
+label:hover{
+    border-style: solid none solid solid;
+    border-width: 1px;
+}
+input:hover{
+    border-style: none solid none none;
+    border-width: 1px;
+}
+label abbr{
+    display: inline-block;
+    width: 29px;
+    text-decoration:none;
+}
+input{
+    width: 69px;
+    vertical-align:middle;
+    background-color: mistyrose;
+    margin: 10px auto;
+}
+#add{
+    width:170px ;
+    /*position: absolute;*/
+    /*left: 40px;*/
+}
+#w{
+    width: 80px;
+}
+p{
+    margin: 0 auto;
+}
