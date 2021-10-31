@@ -1,1 +1,1 @@
-#这是我的一个web项目,使用到的技术有tomcat，Java Web,Servlet,jsp,MVC架构等java相关的后端技术，但是由于时间过短，前端技术的使用
+#这是我的一个web项目,使用到的技术有tomcat，Java Web,Servlet,jsp,MVC架构等java相关的后端技术，但是由于时间过短，前端技术的使用基本只有jsp模板，使用的各种技术并不成熟
